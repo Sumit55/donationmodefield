@@ -1,0 +1,7 @@
+# Package info
+type: module
+name: Donation mode
+description: Custom field for donation forms.
+core_version_requirement: ^8.7.7 || ^9
+dependences:
+  - field
